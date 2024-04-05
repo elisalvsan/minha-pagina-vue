@@ -1,0 +1,51 @@
+{
+  "name": "Elisa Maria Alves de Andrade",
+  "description": "Pós-graduação em Desenvolvimento Front-end em andamento, Graduação em Ciência da Computação pela FPB em 2022, Técnico em Informática pelo IFPB em 2018. Atualmentetrabalho na Comunitech como técnica em informatica.",
+  "academic": [
+    {
+      "institution": "Unyleya",
+      "course": "Pós-graduação Desenvolvimento Front-End",
+      "year": 2024
+    },
+    {
+      "institution": "Ampli",
+      "course": "Pós-graduação Desenvolvimento Web FullStack",
+      "year": 2023
+    },
+    {
+      "institution": "Faculdade Internacional da Paraíba",
+      "course": "Ciência da Computação",
+      "year": 2022
+    },
+    {
+      "institution": "IFPB - Campus Santa Rita",
+      "course": "Técnico, Técnico em Informática",
+      "year": 2018
+    },
+    {
+      "institution": "Colégio Marista Pio X",
+      "course": "Ensino Fundamental II",
+      "year": 2015
+    }
+  ],
+  "professional": [
+    {
+      "company": "Comuniigames Comercio e Serviço LTDA (Comunitech)",
+      "ocupation": "Técnico em Informática",
+      "period": "2019 - Atual",
+      "jobs": "Configuração e montagem de computadores"
+    }
+  ],
+  "contatcs": [
+    {
+      "type": "link",
+      "contact": "https://www.linkedin.com/in/elisamaria-alvesdeandrade/",
+      "text": "Linkedin"
+    },
+    {
+      "type": "mail",
+      "contact": "elisalvsan@gmail.com",
+      "text": "E-mail"
+    }
+  ]
+}
