@@ -25,7 +25,7 @@ let closeAlert = () => hasNewMessage.value = false
 
 const titlePage = computed(() => menu[actualMenu.value])
 
-fetch('src/assets/aboutme.json')
+fetch('/aboutme.json')
     .then(response => response.json())
     .then(data => me.value = data)
 
